@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y\ z\ desc\ scale\ model\ texture
+comment0.target=SnowPile(double,\ double,\ double,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ disappear()
+comment2.params=
+comment2.target=java.lang.String\ getDesc()
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=
+comment5.target=double\ getZ()
+comment6.params=
+comment6.target=double\ getScale()
+comment7.params=
+comment7.target=void\ dissapear()
+numComments=8

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ z
+comment0.target=Key(double,\ double,\ double)
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ The\ method\ gets\ called\ every\ frame\r\n
+comment2.params=
+comment2.target=void\ dissapear()
+comment3.params=
+comment3.target=double\ getScale()
+comment4.params=
+comment4.target=double\ getValueZ()
+comment5.params=
+comment5.target=double\ getValueX()
+comment6.params=
+comment6.target=double\ getValueY()
+numComments=7

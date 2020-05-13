@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ z\ rotateY
+comment0.target=SnowBall(double,\ double,\ double,\ double)
+comment1.params=gravity
+comment1.target=void\ throwBall(double)
+comment1.text=\r\n\ The\ method\ used\ to\ throw\ snowballs\r\n
+numComments=2
